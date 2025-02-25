@@ -1,0 +1,2 @@
+# StyleSynth
+Fashion assistant 
